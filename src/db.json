@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "id": 0,
+      "state": "ADDED"
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "Schwarz",
+      "id": 1,
+      "state": "ACTIVE"
+    },
+    {
+      "firstName": "Ron",
+      "lastName": "Swanson",
+      "id": 2,
+      "state": "ACTIVE"
+    }
+  ]
+}
